@@ -5,7 +5,6 @@ A nice and clean blog template free to use. Styling done with React Bootstrap.
 ### `Dependencies used`
 
 ```
-{
     "bootstrap": "^4.3.1",
     "node-sass": "^4.12.0",
     "react": "^16.8.6",
@@ -14,7 +13,6 @@ A nice and clean blog template free to use. Styling done with React Bootstrap.
     "react-router-dom": "^5.0.0",
     "react-scripts": "3.0.1",
     "sass-loader": "^7.1.0"
-  }
 ```
 
 
