@@ -1,0 +1,41 @@
+h1 {
+    color: $headerColor;
+}
+
+.logo {
+    width: $logoSize;
+}
+
+.buttonLogin {
+    margin-right: $buttonMargin;
+}
+
+.nav-link {
+    text-transform: $uppercase;
+}
+
+.bodyContent {
+    background-image: $bgImage;
+    background-size: $imageCover;
+    background-repeat: $noRepeat;
+    background-position: $backgroundPosition;
+    background-attachment: $posFixed;
+    width: $style100;
+    height: $height100vh;
+    margin-top: $sixtyPX;   
+    overflow: $hidden;
+    margin: $zero;
+    padding: $zero;
+}
+
+
+.bodyItems {
+    width: $style100;
+    height: $height100vh;
+    margin-left: $margin40px;
+    padding-top: $margin220px;
+}
+
+.buttonsBody {
+    margin: $buttonsBodyMargin;
+}
